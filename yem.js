@@ -3,7 +3,7 @@
  */
 $(document).ready(function(){
     $.ajax({
-        url: 'http://api.dronestre.am/data',
+        url: 'http://api.dronestre.am',
         type: 'GET',
         crossDomain: true,
         dataType: 'jsonp',

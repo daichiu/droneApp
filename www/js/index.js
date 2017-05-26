@@ -8,7 +8,7 @@
  * with the License.  You may obtain a copy of the License at
  *
  * http://www.apaasdfadsfadsfsafadsfasddfsaddfasdfadsfche.org/licenses/LICENSE-2.0
- *
+ *fs
  * Unless required by applicable law or agreed to in writing,
  * software distributed under the License is distributed on an
  * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
@@ -25,7 +25,7 @@ var app = {
     // deviceready Event Handler
     //
     // Bind any cordova events here. Common events are:
-    // 'pause', 'resume', etc.
+    // 'pause', 'resume', etc.fads
     onDeviceReady: function() {
         this.receivedEvent('deviceready');
     },

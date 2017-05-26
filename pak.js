@@ -9,7 +9,7 @@ var pakistan = [];
 
 $(document).ready(function(){
     $.ajax({
-        url: 'http://api.dronestre.am',
+        url: 'http://api.dronestre.am/data',
         type: 'GET',
         crossDomain: true,
         dataType: 'jsonp',
